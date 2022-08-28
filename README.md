@@ -2,8 +2,8 @@
 
 ## Project setup
 ```
-git clone https://github.com/ProgrammerNotesYT/vue-todo-app.git
-cd vue-todo-app
+https://github.com/ujjwalkumar17/todo-app.git
+cd todo-app
 npm install
 npm run serve
 ```
