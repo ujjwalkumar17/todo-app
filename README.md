@@ -1,3 +1,10 @@
-# Hello I'm ujjwal kumar and I'm a front end developer.
- I created this app using vue js and also used bootstarp along with fontawsome to butify it UI
- 
+# todo-app
+
+## Project setup
+```
+git clone https://github.com/ProgrammerNotesYT/vue-todo-app.git
+cd vue-todo-app
+npm install
+npm run serve
+```
+
